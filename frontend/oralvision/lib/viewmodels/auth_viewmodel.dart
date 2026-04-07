@@ -1,4 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 import '../repositories/auth_repository.dart';
 
 // State definition for Auth
@@ -23,12 +24,16 @@ class AuthViewModel extends Notifier<AuthState> {
   @override
   AuthState build() {
     final authRepo = ref.watch(authRepositoryProvider);
-    
+
     // Listen to changes silently.
     authRepo.authStateChanges.listen((data) {
       final session = data.session;
       if (session != null) {
-        state = state.copyWith(isAuthenticated: true, isLoading: false, error: null);
+        state = state.copyWith(
+          isAuthenticated: true,
+          isLoading: false,
+          error: null,
+        );
       } else {
         state = state.copyWith(isAuthenticated: false, isLoading: false);
       }
@@ -56,11 +61,37 @@ class AuthViewModel extends Notifier<AuthState> {
   }) async {
     state = state.copyWith(isLoading: true, error: null);
     try {
-      await ref.read(authRepositoryProvider).signUpPatient(
-        email: email, password: password, fullName: fullName, age: age, city: city, phone: phone
-      );
+      final response = await ref
+          .read(authRepositoryProvider)
+          .signUpPatient(
+            email: email,
+            password: password,
+            fullName: fullName,
+            age: age,
+            city: city,
+            phone: phone,
+          );
+
+      // Native Supabase block: If identities is empty, the email was already securely taken
+      if (response.user != null &&
+          response.user!.identities != null &&
+          response.user!.identities!.isEmpty) {
+        state = state.copyWith(
+          isLoading: false,
+          error:
+              "An account with this email already exists! Please log in instead.",
+        );
+        return;
+      }
+
       // Wait for email confirmation mechanism handled natively
-      state = state.copyWith(isLoading: false, error: "Success! Please safely check your email to verify your patient account.");
+      state = state.copyWith(
+        isLoading: false,
+        error:
+            "Success! Please safely check your email to verify your patient account.",
+      );
+    } on AuthException catch (e) {
+      state = state.copyWith(isLoading: false, error: e.message);
     } catch (e) {
       state = state.copyWith(isLoading: false, error: e.toString());
     }
@@ -83,14 +114,42 @@ class AuthViewModel extends Notifier<AuthState> {
   }) async {
     state = state.copyWith(isLoading: true, error: null);
     try {
-      await ref.read(authRepositoryProvider).signUpDoctor(
-        email: email, password: password, fullName: fullName, age: age, city: city, phone: phone,
-        licenseNumber: licenseNumber, yearsOfExperience: yearsOfExperience,
-        specialization: specialization, clinicName: clinicName,
-        clinicAddress: clinicAddress, consultationCharges: consultationCharges,
-        professionalBio: professionalBio
+      final response = await ref
+          .read(authRepositoryProvider)
+          .signUpDoctor(
+            email: email,
+            password: password,
+            fullName: fullName,
+            age: age,
+            city: city,
+            phone: phone,
+            licenseNumber: licenseNumber,
+            yearsOfExperience: yearsOfExperience,
+            specialization: specialization,
+            clinicName: clinicName,
+            clinicAddress: clinicAddress,
+            consultationCharges: consultationCharges,
+            professionalBio: professionalBio,
+          );
+
+      if (response.user != null &&
+          response.user!.identities != null &&
+          response.user!.identities!.isEmpty) {
+        state = state.copyWith(
+          isLoading: false,
+          error:
+              "An account with this email already exists! Please log in instead.",
+        );
+        return;
+      }
+
+      state = state.copyWith(
+        isLoading: false,
+        error:
+            "Success! Please safely check your email to verify your expert account.",
       );
-      state = state.copyWith(isLoading: false, error: "Success! Please safely check your email to verify your expert account.");
+    } on AuthException catch (e) {
+      state = state.copyWith(isLoading: false, error: e.message);
     } catch (e) {
       state = state.copyWith(isLoading: false, error: e.toString());
     }
