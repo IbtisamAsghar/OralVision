@@ -24,6 +24,35 @@ class _PatientRegisterViewState extends ConsumerState<PatientRegisterView> {
   final _passwordController = TextEditingController();
   final _confirmPasswordController = TextEditingController();
 
+  final List<String> _pakistanCities = [
+    'Islamabad',
+    'Karachi',
+    'Lahore',
+    'Rawalpindi',
+    'Faisalabad',
+    'Multan',
+    'Hyderabad',
+    'Peshawar',
+    'Quetta',
+    'Sialkot',
+    'Gujranwala',
+    'Sargodha',
+    'Bahawalpur',
+    'Sukkur',
+    'Larkana',
+    'Sheikhupura',
+    'Jhang',
+    'Gujrat',
+    'Mardan',
+    'Kasur',
+    'Kahuta',
+    'Mingora',
+    'Nawabshah',
+    'Okara',
+    'Gilgit',
+    'Muzaffarabad',
+  ];
+
   bool _obscurePassword = true;
   bool _obscureConfirmPassword = true;
   int _passwordStrength = 0;
@@ -130,12 +159,38 @@ class _PatientRegisterViewState extends ConsumerState<PatientRegisterView> {
                 validator: (val) =>
                     val == null || val.isEmpty ? 'Age is required' : null,
               ),
-              _buildModernTextField(
-                label: 'City',
-                controller: _cityController,
-                hint: 'Enter city',
-                validator: (val) =>
-                    val == null || val.isEmpty ? 'City is required' : null,
+              Padding(
+                padding: const EdgeInsets.only(bottom: 24.0),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    const Text(
+                      'City',
+                      style: TextStyle(
+                        fontSize: 14,
+                        color: AppColors.textSecondary,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    DropdownButtonFormField<String>(
+                      decoration: const InputDecoration(
+                        hintText: 'Select your city explicitly',
+                      ),
+                      menuMaxHeight: 300,
+                      items: _pakistanCities.map((city) {
+                        return DropdownMenuItem(value: city, child: Text(city));
+                      }).toList(),
+                      onChanged: (val) {
+                        if (val != null) {
+                          _cityController.text = val;
+                        }
+                      },
+                      validator: (val) => val == null || val.isEmpty
+                          ? 'City is required'
+                          : null,
+                    ),
+                  ],
+                ),
               ),
               _buildModernTextField(
                 label: 'Phone Number',
