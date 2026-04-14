@@ -16,10 +16,8 @@ class _RoleSelectionViewState extends State<RoleSelectionView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        leading: IconButton(
-          icon: const Icon(Icons.arrow_back),
-          onPressed: () => Navigator.of(context).pop(),
-        ),
+        automaticallyImplyLeading:
+            false, // Security: Let GoRouter handle back propagation natively
         backgroundColor: Colors.transparent,
         elevation: 0,
       ),
