@@ -57,11 +57,11 @@ class _OnboardingViewState extends ConsumerState<OnboardingView> {
                   children: [
                     const Spacer(),
                     
-                    // Abstract Interactive Logo Area
+                    // Custom Uploaded OralVision Logo
                     Container(
-                      padding: const EdgeInsets.all(36),
+                      padding: const EdgeInsets.all(4),
                       decoration: BoxDecoration(
-                        color: AppColors.surfaceWhite,
+                        color: Colors.black, // Match the logo's native theme
                         shape: BoxShape.circle,
                         boxShadow: [
                           BoxShadow(
@@ -72,10 +72,13 @@ class _OnboardingViewState extends ConsumerState<OnboardingView> {
                           ),
                         ],
                       ),
-                      child: const Icon(
-                        Icons.psychology_outlined,
-                        size: 90,
-                        color: AppColors.primaryTeal,
+                      child: ClipOval(
+                        child: Image.asset(
+                          'assets/images/logo.png',
+                          width: 150,
+                          height: 150,
+                          fit: BoxFit.cover,
+                        ),
                       ),
                     ),
                     
