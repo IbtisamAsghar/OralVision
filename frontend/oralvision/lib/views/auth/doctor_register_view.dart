@@ -26,6 +26,13 @@ class _DoctorRegisterViewState extends ConsumerState<DoctorRegisterView> {
   final _confirmPasswordController = TextEditingController();
   final _ageController = TextEditingController();
   final _cityController = TextEditingController();
+  
+  final List<String> _pakistanCities = [
+    'Islamabad', 'Karachi', 'Lahore', 'Rawalpindi', 'Faisalabad', 'Multan',
+    'Hyderabad', 'Peshawar', 'Quetta', 'Sialkot', 'Gujranwala', 'Sargodha',
+    'Bahawalpur', 'Sukkur', 'Larkana', 'Sheikhupura', 'Jhang', 'Gujrat',
+    'Mardan', 'Kasur', 'Kahuta', 'Mingora', 'Nawabshah', 'Okara', 'Gilgit', 'Muzaffarabad'
+  ];
 
   // Verification & Professional Info (Page 2)
   final _licenseController = TextEditingController();
@@ -43,10 +50,7 @@ class _DoctorRegisterViewState extends ConsumerState<DoctorRegisterView> {
     'General Dentistry',
   ];
 
-  // Clinic (Page 2)
-  final _clinicNameController = TextEditingController();
-  final _clinicAddressController = TextEditingController();
-  final _chargesController = TextEditingController();
+  // Clinic / Bio (Page 2)
   final _bioController = TextEditingController();
 
   bool _obscurePassword = true;
@@ -65,9 +69,6 @@ class _DoctorRegisterViewState extends ConsumerState<DoctorRegisterView> {
     _licenseController.dispose();
     _experienceController.dispose();
     _specializationInputController.dispose();
-    _clinicNameController.dispose();
-    _clinicAddressController.dispose();
-    _chargesController.dispose();
     _bioController.dispose();
     super.dispose();
   }
@@ -131,10 +132,6 @@ class _DoctorRegisterViewState extends ConsumerState<DoctorRegisterView> {
             licenseNumber: _licenseController.text.trim(),
             yearsOfExperience: int.tryParse(_experienceController.text) ?? 0,
             specialization: joinedSpecializations,
-            clinicName: _clinicNameController.text.trim(),
-            clinicAddress: _clinicAddressController.text.trim(),
-            consultationCharges:
-                double.tryParse(_chargesController.text) ?? 0.0,
             professionalBio: _bioController.text.trim(),
           );
     }
@@ -236,12 +233,38 @@ class _DoctorRegisterViewState extends ConsumerState<DoctorRegisterView> {
                   validator: (val) =>
                       val == null || val.isEmpty ? 'Age is required' : null,
                 ),
-                _buildModernTextField(
-                  label: 'City',
-                  controller: _cityController,
-                  hint: 'e.g., Lahore',
-                  validator: (val) =>
-                      val == null || val.isEmpty ? 'City is required' : null,
+                Padding(
+                  padding: const EdgeInsets.only(bottom: 24.0),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      const Text(
+                        'City',
+                        style: TextStyle(
+                          fontSize: 14,
+                          color: AppColors.textSecondary,
+                        ),
+                      ),
+                      const SizedBox(height: 8),
+                      DropdownButtonFormField<String>(
+                        decoration: const InputDecoration(
+                          hintText: 'Select your city explicitly',
+                        ),
+                        menuMaxHeight: 300,
+                        items: _pakistanCities.map((city) {
+                          return DropdownMenuItem(value: city, child: Text(city));
+                        }).toList(),
+                        onChanged: (val) {
+                          if (val != null) {
+                            _cityController.text = val;
+                          }
+                        },
+                        validator: (val) => val == null || val.isEmpty
+                            ? 'City is required'
+                            : null,
+                      ),
+                    ],
+                  ),
                 ),
                 _buildModernTextField(
                   label: 'Personal Phone Number',
@@ -564,31 +587,6 @@ class _DoctorRegisterViewState extends ConsumerState<DoctorRegisterView> {
               title: 'Clinic Configuration',
               icon: Icons.local_hospital_outlined,
               children: [
-                _buildModernTextField(
-                  label: 'Primary Clinic Name',
-                  controller: _clinicNameController,
-                  hint: 'e.g., Pearl Dental Care',
-                  validator: (val) => val == null || val.isEmpty
-                      ? 'Clinic Name required'
-                      : null,
-                ),
-                _buildModernTextField(
-                  label: 'Clinic Location/Address',
-                  controller: _clinicAddressController,
-                  hint: 'Enter full verifiable address',
-                  validator: (val) =>
-                      val == null || val.isEmpty ? 'Address required' : null,
-                ),
-                _buildModernTextField(
-                  label: 'Consultation Charges (PKR)',
-                  controller: _chargesController,
-                  hint: 'e.g., 2000',
-                  keyboardType: TextInputType.number,
-                  inputFormatters: [FilteringTextInputFormatter.digitsOnly],
-                  validator: (val) => val == null || val.isEmpty
-                      ? 'Charges required (Digits only)'
-                      : null,
-                ),
                 const Text(
                   'Professional Bio',
                   style: TextStyle(

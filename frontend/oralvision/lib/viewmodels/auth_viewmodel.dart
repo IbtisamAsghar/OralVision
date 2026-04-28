@@ -107,9 +107,6 @@ class AuthViewModel extends Notifier<AuthState> {
     required String licenseNumber,
     required int yearsOfExperience,
     required String specialization,
-    required String clinicName,
-    required String clinicAddress,
-    required double consultationCharges,
     required String professionalBio,
   }) async {
     state = state.copyWith(isLoading: true, error: null);
@@ -126,9 +123,6 @@ class AuthViewModel extends Notifier<AuthState> {
             licenseNumber: licenseNumber,
             yearsOfExperience: yearsOfExperience,
             specialization: specialization,
-            clinicName: clinicName,
-            clinicAddress: clinicAddress,
-            consultationCharges: consultationCharges,
             professionalBio: professionalBio,
           );
 

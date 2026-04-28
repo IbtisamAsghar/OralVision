@@ -1,23 +1,30 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../core/theme/app_colors.dart';
+import '../../core/providers/preferences_provider.dart';
 
-class RoleSelectionView extends StatefulWidget {
+class RoleSelectionView extends ConsumerStatefulWidget {
   const RoleSelectionView({super.key});
 
   @override
-  State<RoleSelectionView> createState() => _RoleSelectionViewState();
+  ConsumerState<RoleSelectionView> createState() => _RoleSelectionViewState();
 }
 
-class _RoleSelectionViewState extends State<RoleSelectionView> {
+class _RoleSelectionViewState extends ConsumerState<RoleSelectionView> {
   String selectedRole = 'patient';
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        automaticallyImplyLeading:
-            false, // Security: Let GoRouter handle back propagation natively
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back, color: AppColors.textPrimary),
+          onPressed: () {
+            ref.read(onboardingProvider.notifier).undoOnboarding();
+            context.go('/onboarding');
+          },
+        ),
         backgroundColor: Colors.transparent,
         elevation: 0,
       ),

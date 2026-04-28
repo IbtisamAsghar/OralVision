@@ -16,6 +16,11 @@ class OnboardingNotifier extends Notifier<bool> {
     state = true;
     ref.read(sharedPreferencesProvider).setBool('onboardingComplete', true);
   }
+
+  void undoOnboarding() {
+    state = false;
+    ref.read(sharedPreferencesProvider).setBool('onboardingComplete', false);
+  }
 }
 
 final onboardingProvider = NotifierProvider<OnboardingNotifier, bool>(OnboardingNotifier.new);

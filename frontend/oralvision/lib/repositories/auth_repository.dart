@@ -48,9 +48,6 @@ class AuthRepository {
     required String licenseNumber,
     required int yearsOfExperience,
     required String specialization,
-    required String clinicName,
-    required String clinicAddress,
-    required double consultationCharges,
     required String professionalBio,
   }) async {
     return await _supabase.auth.signUp(
@@ -65,9 +62,6 @@ class AuthRepository {
         'license_number': licenseNumber,
         'years_of_experience': yearsOfExperience,
         'specialization': specialization,
-        'clinic_name': clinicName,
-        'clinic_address': clinicAddress,
-        'consultation_charges': consultationCharges,
         'professional_bio': professionalBio,
       }
     );
