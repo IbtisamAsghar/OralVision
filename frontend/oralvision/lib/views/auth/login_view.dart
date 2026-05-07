@@ -59,13 +59,24 @@ class _LoginViewState extends ConsumerState<LoginView> {
             Container(
               padding: const EdgeInsets.all(16),
               decoration: BoxDecoration(
+                color: Colors.black, // Match the logo's native theme
                 shape: BoxShape.circle,
-                border: Border.all(color: AppColors.primaryTeal, width: 1.5),
+                boxShadow: [
+                  BoxShadow(
+                    color: AppColors.primaryTeal.withOpacity(0.25),
+                    blurRadius: 40,
+                    offset: const Offset(0, 15),
+                    spreadRadius: 8,
+                  ),
+                ],
               ),
-              child: const Icon(
-                Icons.psychology_outlined,
-                size: 40,
-                color: AppColors.primaryTeal,
+              child: ClipOval(
+                child: Image.asset(
+                  'assets/images/logo.png',
+                  width: 150,
+                  height: 150,
+                  fit: BoxFit.cover,
+                ),
               ),
             ),
             const SizedBox(height: 24),
