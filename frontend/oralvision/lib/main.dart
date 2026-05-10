@@ -25,9 +25,7 @@ Future<void> main() async {
   runApp(
     // ProviderScope is completely required for Riverpod State Management
     ProviderScope(
-      overrides: [
-        sharedPreferencesProvider.overrideWithValue(sharedPrefs),
-      ],
+      overrides: [sharedPreferencesProvider.overrideWithValue(sharedPrefs)],
       child: const OralVisionApp(),
     ),
   );

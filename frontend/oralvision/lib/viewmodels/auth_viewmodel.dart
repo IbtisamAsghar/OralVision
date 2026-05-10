@@ -46,8 +46,16 @@ class AuthViewModel extends Notifier<AuthState> {
     state = state.copyWith(isLoading: true, error: null);
     try {
       await ref.read(authRepositoryProvider).signIn(email, password);
+    } on AuthException catch (e) {
+      String niceMessage = e.message;
+      if (e.message.contains('Email not confirmed')) {
+        niceMessage = 'Please verify your email before logging in.';
+      } else if (e.message.contains('Invalid login credentials')) {
+        niceMessage = 'Incorrect email or password.';
+      }
+      state = state.copyWith(isLoading: false, error: niceMessage);
     } catch (e) {
-      state = state.copyWith(isLoading: false, error: e.toString());
+      state = state.copyWith(isLoading: false, error: 'An unexpected error occurred.');
     }
   }
 
