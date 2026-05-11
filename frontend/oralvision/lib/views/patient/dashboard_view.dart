@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 import '../../core/theme/app_colors.dart';
 
 class DashboardView extends StatelessWidget {
@@ -7,6 +8,11 @@ class DashboardView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final user = Supabase.instance.client.auth.currentUser;
+    final fullName = user?.userMetadata?['full_name'] as String? ?? 'Patient';
+    final firstName = fullName.split(' ').first;
+    final initial = firstName.isNotEmpty ? firstName[0].toUpperCase() : 'P';
+
     return Scaffold(
       backgroundColor: AppColors.backgroundPrimary,
       body: SafeArea(
@@ -22,16 +28,16 @@ class DashboardView extends StatelessWidget {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      const Text(
-                        'Good Morning, Patient',
-                        style: TextStyle(
+                      Text(
+                        'Good Morning, $firstName',
+                        style: const TextStyle(
                           fontSize: 24,
                           fontWeight: FontWeight.bold,
                           color: AppColors.textPrimary,
                         ),
                       ),
                       const SizedBox(height: 4),
-                      Text(
+                      const Text(
                         'Take control of your oral health today.',
                         style: TextStyle(
                           fontSize: 14,
@@ -43,9 +49,9 @@ class DashboardView extends StatelessWidget {
                   CircleAvatar(
                     radius: 24,
                     backgroundColor: AppColors.primaryTeal,
-                    child: const Text(
-                      'P',
-                      style: TextStyle(
+                    child: Text(
+                      initial,
+                      style: const TextStyle(
                         color: Colors.white,
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
@@ -57,13 +63,29 @@ class DashboardView extends StatelessWidget {
               const SizedBox(height: 32),
 
               // AI Diagnosis Hub Section
-              const Text(
-                '🧠 AI Diagnosis Hub',
-                style: TextStyle(
-                  fontSize: 18,
-                  fontWeight: FontWeight.bold,
-                  color: AppColors.textPrimary,
-                ),
+              Row(
+                crossAxisAlignment: CrossAxisAlignment.center,
+                children: [
+                  ColorFiltered(
+                    colorFilter: const ColorFilter.mode(
+                      Colors.pinkAccent,
+                      BlendMode.srcATop,
+                    ),
+                    child: const Text(
+                      '🦷',
+                      style: TextStyle(fontSize: 20),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  const Text(
+                    'AI Diagnosis Hub',
+                    style: TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                      color: AppColors.textPrimary,
+                    ),
+                  ),
+                ],
               ),
               const SizedBox(height: 16),
 
@@ -145,7 +167,8 @@ class DashboardView extends StatelessWidget {
         onPressed: () {},
         backgroundColor: AppColors.primaryTeal,
         elevation: 4,
-        child: const Icon(Icons.chat_bubble_outline, color: Colors.white),
+        shape: const CircleBorder(),
+        child: const Icon(Icons.maps_ugc_outlined, color: Colors.white, size: 28),
       ),
     );
   }
