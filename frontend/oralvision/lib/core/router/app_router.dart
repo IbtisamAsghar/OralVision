@@ -12,6 +12,9 @@ import '../../views/auth/doctor_register_view.dart';
 import '../../views/auth/login_view.dart';
 import '../../views/home/home_view.dart';
 
+import '../../views/patient/patient_main_layout.dart';
+import '../../views/scan/image_scan_view.dart';
+
 class RouterNotifier extends ChangeNotifier {
   final Ref ref;
   RouterNotifier(this.ref) {
@@ -88,7 +91,11 @@ final routerProvider = Provider<GoRouter>((ref) {
       ),
       GoRoute(
         path: '/home',
-        builder: (context, state) => const HomeView(),
+        builder: (context, state) => const PatientMainLayout(),
+      ),
+      GoRoute(
+        path: '/scan',
+        builder: (context, state) => const ImageScanView(),
       ),
     ],
   );
