@@ -111,7 +111,9 @@ class DashboardView extends StatelessWidget {
                       subtitle:
                           'Answer guided questions for AI-based assessment.',
                       icon: Icons.assignment_outlined,
-                      onTap: () {},
+                      onTap: () {
+                        context.push('/symptoms');
+                      },
                     ),
                     const SizedBox(width: 16),
                     _buildHubCard(

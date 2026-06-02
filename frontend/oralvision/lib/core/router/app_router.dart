@@ -10,10 +10,10 @@ import '../../views/auth/role_selection_view.dart';
 import '../../views/auth/patient_register_view.dart';
 import '../../views/auth/doctor_register_view.dart';
 import '../../views/auth/login_view.dart';
-import '../../views/home/home_view.dart';
 
 import '../../views/patient/patient_main_layout.dart';
 import '../../views/scan/image_scan_view.dart';
+import '../../views/symptoms/check_symptoms_view.dart';
 
 class RouterNotifier extends ChangeNotifier {
   final Ref ref;
@@ -31,17 +31,18 @@ final routerProvider = Provider<GoRouter>((ref) {
   return GoRouter(
     refreshListenable: notifier,
     initialLocation: '/onboarding',
-    
+
     redirect: (context, state) {
       final authState = ref.read(authViewModelProvider);
       final onboardingCompleted = ref.read(onboardingProvider);
 
       final isGoingToOnboarding = state.matchedLocation == '/onboarding';
-      final isGoingToAuth = state.matchedLocation == '/login' || 
-                            state.matchedLocation == '/role-selection' || 
-                            state.matchedLocation == '/register/patient' || 
-                            state.matchedLocation == '/register/doctor';
-      
+      final isGoingToAuth =
+          state.matchedLocation == '/login' ||
+          state.matchedLocation == '/role-selection' ||
+          state.matchedLocation == '/register/patient' ||
+          state.matchedLocation == '/register/doctor';
+
       final isAuthenticated = authState.isAuthenticated;
 
       // 1. Barrier: Block any uninitiated users inside the Onboarding Module
@@ -73,10 +74,7 @@ final routerProvider = Provider<GoRouter>((ref) {
         path: '/onboarding',
         builder: (context, state) => const OnboardingView(),
       ),
-      GoRoute(
-        path: '/login',
-        builder: (context, state) => const LoginView(),
-      ),
+      GoRoute(path: '/login', builder: (context, state) => const LoginView()),
       GoRoute(
         path: '/role-selection',
         builder: (context, state) => const RoleSelectionView(),
@@ -96,6 +94,10 @@ final routerProvider = Provider<GoRouter>((ref) {
       GoRoute(
         path: '/scan',
         builder: (context, state) => const ImageScanView(),
+      ),
+      GoRoute(
+        path: '/symptoms',
+        builder: (context, state) => const CheckSymptomsView(),
       ),
     ],
   );
