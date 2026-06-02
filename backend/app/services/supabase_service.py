@@ -39,6 +39,11 @@ def upload_and_save_record(
     # 1. Upload PDF to Storage
     try:
         logger.info(f"Uploading PDF to Supabase Storage: {file_name}")
+        try:
+            supabase.storage.create_bucket("patient_reports", options={"public": True})
+        except Exception:
+            pass
+            
         with open(pdf_path, "rb") as f:
             supabase.storage.from_("patient_reports").upload(
                 file_name, 
@@ -94,6 +99,11 @@ def upload_and_save_record_bg(
     # 1. Upload PDF to Storage
     try:
         logger.info(f"Uploading PDF to Supabase Storage in background: {file_name}")
+        try:
+            supabase.storage.create_bucket("patient_reports", options={"public": True})
+        except Exception:
+            pass
+
         with open(pdf_path, "rb") as f:
             supabase.storage.from_("patient_reports").upload(
                 file_name, 

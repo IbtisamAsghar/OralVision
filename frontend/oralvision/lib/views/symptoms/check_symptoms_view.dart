@@ -47,12 +47,17 @@ class _CheckSymptomsViewState extends ConsumerState<CheckSymptomsView> {
 
   Future<void> _launchUrl(String urlString) async {
     final uri = Uri.parse(urlString);
-    if (await canLaunchUrl(uri)) {
-      await launchUrl(uri, mode: LaunchMode.externalApplication);
-    } else {
-      if (mounted) {
+    try {
+      final success = await launchUrl(uri, mode: LaunchMode.externalApplication);
+      if (!success && mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(content: Text('Could not open PDF')),
+        );
+      }
+    } catch (e) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text('Failed to launch PDF: ${e.toString()}')),
         );
       }
     }
