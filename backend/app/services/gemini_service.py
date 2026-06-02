@@ -3,6 +3,17 @@ import os
 import json
 
 def generate_report(symptoms: dict, disease: str, confidence: float, severity: str) -> str:
+    # Healthy Gating: Bypass external LLM if local ML predicts Healthy with high confidence
+    if disease == 'Healthy' and confidence >= 0.95:
+        return (
+            "Condition Summary: Based on the symptoms you reported, your oral health appears to be in good condition with no active signs of common dental issues.\n\n"
+            "Recommended Next Steps:\n"
+            "1. Continue to maintain excellent daily oral hygiene by brushing twice a day with fluoride toothpaste and flossing daily.\n"
+            "2. Visit your dentist regularly for routine check-ups and cleanings every six months.\n"
+            "3. Stay hydrated and limit sugary foods or drinks to protect your tooth enamel.\n\n"
+            "Disclaimer: This report is an AI-assisted prediction based on self-reported symptoms. It is not a formal diagnosis. Always consult a dental professional for direct clinical examinations."
+        )
+
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         return "AI Report generation is unavailable. Please configure GEMINI_API_KEY."
