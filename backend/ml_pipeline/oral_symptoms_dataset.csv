@@ -1,0 +1,2501 @@
+toothache,hot_cold_sensitivity,swollen_gums,bleeding_gums,bad_breath,white_patches,loose_teeth,fever,jaw_swelling,pain_when_chewing,mouth_sores,disease
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,0,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,0,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,0,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,0,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,1,0,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,1,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,1,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,1,0,Periodontitis
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,0,0,0,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Periodontitis
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,0,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,0,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,1,0,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,1,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+1,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,0,Healthy
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,0,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,0,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,1,0,0,0,0,0,0,0,Gingivitis
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,0,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,1,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,0,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,1,0,0,0,0,0,1,0,0,Healthy
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,1,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,0,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,1,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,0,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,1,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,1,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,1,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,1,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,0,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Healthy
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,1,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,0,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,0,0,0,0,0,0,1,0,0,0,Healthy
+0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,1,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,0,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,0,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+0,1,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,0,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,0,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,0,0,0,0,0,0,0,0,1,0,Healthy
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,0,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,1,0,0,1,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,0,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,1,1,1,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,0,Healthy
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,1,0,0,0,0,0,0,0,0,1,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,0,1,0,Tooth Abscess
+0,0,0,1,0,0,0,0,1,0,0,Healthy
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,1,0,Tooth Abscess
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,1,1,0,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Periodontitis
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,1,0,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,1,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,0,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,1,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,0,0,1,0,Periodontitis
+0,1,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+0,0,1,1,1,0,1,0,0,0,0,Periodontitis
+1,1,0,0,0,0,0,0,1,1,0,Tooth Abscess
+0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,0,0,0,0,1,1,Mouth Ulcers (Canker Sores)
+0,0,0,0,1,1,0,0,0,0,1,Oral Candidiasis (Thrush)
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,0,0,1,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+0,0,1,1,1,0,0,0,0,0,0,Gingivitis
+0,0,1,1,0,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,1,0,0,0,0,1,0,Dental Caries (Cavity)
+0,0,1,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+0,0,1,1,1,0,1,0,0,1,0,Periodontitis
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
+0,0,1,1,0,0,1,0,0,0,0,Periodontitis
+0,0,0,0,0,1,0,0,0,0,0,Oral Candidiasis (Thrush)
+0,0,1,1,0,0,0,0,0,0,0,Gingivitis
+1,1,0,0,0,0,0,1,1,1,0,Tooth Abscess
+1,1,0,0,0,0,0,0,0,0,0,Dental Caries (Cavity)
