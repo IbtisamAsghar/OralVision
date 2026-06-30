@@ -1,0 +1,15 @@
+﻿fastapi
+uvicorn
+ultralytics
+torch
+torchvision
+scikit-learn
+xgboost
+pillow
+python-multipart
+supabase
+python-dotenv
+pandas
+joblib
+numpy
+huggingface_hub
